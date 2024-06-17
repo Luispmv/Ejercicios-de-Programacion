@@ -15,6 +15,12 @@ CodeWars https://www.codewars.com/
 
 Project Euler https://projecteuler.net/archives
 
+Geek for geeks https://www.geeksforgeeks.org/
+
+Hackerearth https://www.hackerearth.com/
+
+Interviewbit https://www.interviewbit.com/
+
 Ejercicios de Matemáticas https://www.ematematicas.net/
 
 Cada una de estas páginas contiene ejercicios que ayudarán a ejercitar la resolución de problemas.
