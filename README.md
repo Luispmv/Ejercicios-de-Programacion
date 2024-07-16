@@ -21,6 +21,8 @@ Hackerearth https://www.hackerearth.com/
 
 Interviewbit https://www.interviewbit.com/
 
+Exercism https://exercism.org/ 
+
 Ejercicios de Matemáticas https://www.ematematicas.net/
 
 Cada una de estas páginas contiene ejercicios que ayudarán a ejercitar la resolución de problemas.
